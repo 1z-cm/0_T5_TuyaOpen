@@ -1,0 +1,7 @@
+menu "configure app (sdcard_demo)"
+
+config SDCARD_DEMO
+    bool "enable standalone SD card demo"
+    default y
+
+endmenu

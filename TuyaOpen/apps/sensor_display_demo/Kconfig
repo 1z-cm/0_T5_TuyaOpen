@@ -1,0 +1,7 @@
+menu "configure app (sensor_display_demo)"
+
+config SENSOR_DISPLAY_DEMO
+    bool "enable sensor display demo"
+    default y
+
+endmenu

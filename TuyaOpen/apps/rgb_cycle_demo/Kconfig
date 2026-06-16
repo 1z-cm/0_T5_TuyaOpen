@@ -1,0 +1,7 @@
+menu "configure app (rgb_cycle_demo)"
+
+config RGB_CYCLE_DEMO
+    bool "enable standalone RGB cycle demo"
+    default y
+
+endmenu
